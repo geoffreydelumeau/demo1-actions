@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Mon premier workflow
+name: Mon premier workflow !
 
 # Controls when the workflow will run
 on:
@@ -33,4 +33,4 @@ jobs:
       - name: Fin de mon premier job
         run: |
           echo "C'est la fin du job",
-          echo "Workflow terminé."
+          echo "Workflow terminé !"
